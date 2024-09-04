@@ -12,7 +12,7 @@
 <a href="https://discord.gg/7xMnv6MQ4M" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="" height="30" width="40" /></a>
 </p>
 
-<h2 align="center">Skills :</h2>
+<h2 align="center">Skills</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
