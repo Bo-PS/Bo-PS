@@ -1,16 +1,23 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Bo</h1>
+<h3 align="center">FullStack developer from Palestine .</h3>
 
-<!--
-**Bo-PS/Bo-PS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨‍💻 All my creations are here [https://discord.gg/7xMnv6MQ4M](https://discord.gg/7xMnv6MQ4M)
 
-Here are some ideas to get you started:
+- 💬 My experiences **lua, html, css, javascript, php, c#**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://GermanyTeam.shop target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCDpFE0kGUcMI2QacR6ceGJg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="" height="30" width="40" /></a>
+<a href="https://discord.gg/7xMnv6MQ4M" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="" height="30" width="40" /></a>
+</p>
+
+<h2 align="center">Skills </h2>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c#,php,lua,js,css,html" />
+  </a>
+</p>
+
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Bo-PS&show_icons=true&theme=dark&title_color=970202&text_color=c0b9b9&hide_border=true&locale=en" alt="d7y1" /></p>
