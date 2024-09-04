@@ -7,7 +7,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://GermanyTeam.shop target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="" height="30" width="40" /></a>
+<a href="https://GermanyTeam.shop"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCDpFE0kGUcMI2QacR6ceGJg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="" height="30" width="40" /></a>
 <a href="https://discord.gg/7xMnv6MQ4M" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="" height="30" width="40" /></a>
 </p>
@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,lua,js,css,html" />
+    <img src="https://skillicons.dev/icons?i=php,lua,js,css,html,c#" />
   </a>
 </p>
 
