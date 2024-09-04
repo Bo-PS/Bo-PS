@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Bo</h1>
 <h3 align="center">FullStack developer from Palestine .</h3>
 
-- 👨‍💻 All my creations are here [https://discord.gg/7xMnv6MQ4M](https://discord.gg/7xMnv6MQ4M)
+- 👨‍💻 ** All my creations are here ** [https://discord.gg/7xMnv6MQ4M](https://discord.gg/7xMnv6MQ4M)
 
-- 💬 My experiences **lua, html, css, javascript, php, c#**
+- 💬** My experiences : ** `lua, html, css, javascript, php, c#`
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
